@@ -1,0 +1,159 @@
+{
+  "Character": {
+    "ID": "AthenaCharacter:CID_434_Athena_Commando_F_StealthHonor",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "Backpack": {
+    "ID": "BID_004_BlackKnight",
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "Glider": {
+    "ID": "Glider_Warthog",
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "Pickaxe": {
+    "ID": "AthenaPickaxe:Pickaxe_Lockjaw",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "SkyDiveContrail": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "Dance": {
+    "ID": [
+      "AthenaDance:EID_SwingDance",
+      "AthenaDance:EID_EgyptianDance",
+      "AthenaDance:EID_Everytime",
+      "AthenaDance:EID_TakeTheL",
+      "AthenaDance:EID_ByTheFire",
+      "AthenaDance:EID_Griddles"
+    ],
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "ItemWrap": {
+    "ID": [
+      "AthenaItemWrap:Wrap_018_Magma",
+      "AthenaItemWrap:Wrap_018_Magma",
+      "AthenaItemWrap:Wrap_018_Magma",
+      "AthenaItemWrap:Wrap_018_Magma",
+      "AthenaItemWrap:Wrap_018_Magma",
+      "AthenaItemWrap:Wrap_018_Magma",
+      "AthenaItemWrap:Wrap_018_Magma"
+    ],
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "MusicPack": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "LoadingScreen": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "BannerIconTemplate": "BRSeason01",
+  "BannerColorTemplate": null,
+  "vbucks": 187187187,
+  "level": 187187,
+  "battlestars": 437,
+  "alien_style_points": 45353645,
+  "favorites": {}
+}

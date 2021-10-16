@@ -1,0 +1,121 @@
+{
+  "Character": {
+    "ID": "AthenaCharacter:CID_227_Athena_Commando_F_Vampire",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "Backpack": {
+    "ID": "AthenaBackpack:BID_119_VampireFemale",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "Glider": {
+    "ID": "Glider_Warthog",
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "Pickaxe": {
+    "ID": "Pickaxe_Lockjaw",
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "SkyDiveContrail": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "Dance": {
+    "ID": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Variants": [
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      }
+    ]
+  },
+  "ItemWrap": {
+    "ID": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Variants": [
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      },
+      {
+        "variants": []
+      }
+    ]
+  },
+  "MusicPack": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "LoadingScreen": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "BannerIconTemplate": "BRSeason01",
+  "BannerColorTemplate": null,
+  "vbucks": 14600,
+  "level": 114,
+  "battlestars": 35,
+  "alien_style_points": 935,
+  "favorites": {}
+}
